@@ -3,6 +3,18 @@
 ## 🛡️ Aspiring Cybersecurity Professional | Generative AI Concentration
 ### Current Focus: Infrastructure Hardening & Linux Virtualization
 
+### 📚 Tech Stack & Targeted Certifications
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Network+ Candidate](https://img.shields.io/badge/CompTIA_Network%2B-In_Progress-orange?style=for-the-badge&logo=comptia)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📂 Active Projects
+* **[Project Ghost Machine](https://github.com/Nicholas-Butterfield/Project-Ghost-Machine):** A deep-dive into Fedora hardening, Sway TWM optimization, and keyboard-driven security workflows.
+* **Living Portfolio:** Real-time documentation of SNHU academic labs and CompTIA CertMaster progress.
+
+---
+
 Welcome to my technical portfolio. I am a 16-year Veteran currently pursuing my degree at SNHU. My journey into Information Technology is built on a foundation of high-stakes precision and diagnostic discipline from two intense prior careers.
 
 ---
