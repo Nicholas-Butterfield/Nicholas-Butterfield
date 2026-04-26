@@ -9,9 +9,17 @@
 ![Network+ Candidate](https://img.shields.io/badge/CompTIA_Network%2B-In_Progress-orange?style=for-the-badge&logo=comptia)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📂 Active Projects
-* **[Project Ghost Machine](https://github.com/Nicholas-Butterfield/Project-Ghost-Machine):** A deep-dive into Fedora hardening, Sway TWM optimization, and keyboard-driven security workflows.
-* **Living Portfolio:** Real-time documentation of SNHU academic labs and CompTIA CertMaster progress.
+## 🚀 Active Projects
+
+### [Project-Ghost-Machine](https://github.com/Nicholas-Butterfield/Project-Ghost-Machine)
+**Platform:** Fedora Linux (Dell Latitude)
+* **Goal:** Documentation of security hardening and remote access configurations.
+* **Focus:** Implementing LUKS encryption, SSH hardening, and system optimization for a dedicated lab node.
+
+### [Hardened-Acer-Windows](https://github.com/Nicholas-Butterfield/Hardened-Acer-Windows)
+**Platform:** Windows 11 Home (Acer Predator Helios 16)
+* **Goal:** Comprehensive security hardening and audit documentation for a Windows workstation.
+* **Focus:** Attack surface reduction, Data at Rest (DAR) protection, and documenting security baselines.
 
 ---
 
