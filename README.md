@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile_banner.png" alt="N. Butterfield | Cybersecurity Banner">
+</p>
+
 # Hi, I'm Nicholas 👋
 
 ## 🛡️ Aspiring Cybersecurity Professional | Generative AI Concentration
