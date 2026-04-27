@@ -2,7 +2,9 @@
   <img src="assets/profile_banner.png" alt="N. Butterfield | Cybersecurity Banner">
 </p>
 
-# Hi, I'm Nicholas 👋
+---
+
+## Welcome — I’m Nicholas Butterfield 💻
 
 ## 🛡️ Aspiring Cybersecurity Professional | Generative AI Concentration
 ### Current Focus: Infrastructure Hardening & Linux Virtualization
