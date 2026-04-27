@@ -31,6 +31,18 @@ Welcome to my technical portfolio. I am a 16-year Veteran currently pursuing my 
 
 ---
 
+## Skills & Focus Areas
+
+| Area                | Skills / Tools                                                                 |
+|---------------------|-------------------------------------------------------------------------------|
+| **Security**        | System hardening, least privilege, attack surface reduction, telemetry tuning |
+| **Systems & OS**    | Windows 11, Fedora Linux, virtualization, home lab design                     |
+| **Networking**      | Basic routing/switching, firewall rules, DHCP/DNS concepts                    |
+| **Scripting & Tools** | PowerShell, Bash, Git, VS Code                                              |
+| **AI & Automation** | Generative AI workflows, prompt engineering, documentation automation         |
+
+---
+
 ### 🚀 The Journey: Mechanical Precision to Clinical Triage to Cyber Defense
 My approach to Cybersecurity is informed by a decade of professional “troubleshooting” in high-pressure environments:
 * **The Diagnostic Phase (2014–2020):** As a professional **Harley-Davidson Technician**, I mastered the art of “inside-out” mechanical diagnostics and systems integrity.
